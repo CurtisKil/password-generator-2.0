@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #4267b2;
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.main-h1 {
+  text-align: center;
+}
+
+h2 {
+  padding-bottom: 20px;
+  border-bottom: 2px solid whitesmoke;
+}
+
+.card {
+  background-color: #5173b8;
+  position: relative;
+  left: 12%;
+  width: 75%;
+  height: 350px;
+  padding: 20px;
+}
+
+.password-container {
+  border: 2px dotted gray;
+  height: 100px;
+  width: 99%;
+  border-radius: 5px;
+}
+
+.btn {
+  padding: 12px 18px;
+  border-radius: 15px;
+  border: none;
+  background-color: #ffffff;
+}
+
+.btn-1 {
+  position: relative;
+  left: 270px;
+}
+
+.btn-2 {
+  position: relative;
+  left: 290px;
+}
+
+#insert-pass {
+  text-align: center;
+  padding-top: 40px;
+}
